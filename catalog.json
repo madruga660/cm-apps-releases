@@ -1,0 +1,36 @@
+{
+    "schema":  1,
+    "generated":  "2026-06-14T12:23:43",
+    "apps":  [
+                 {
+                     "id":  "drive-organizer",
+                     "name":  "Drive Organizer",
+                     "tagline":  "Tidy a messy folder, safely.",
+                     "description":  "Cleans up file names, builds a standard folder set for your role, files loose papers, and finds duplicates. Previews every change first and everything is undoable - nothing is ever deleted.",
+                     "category":  "Productivity",
+                     "version":  "2.11.0",
+                     "install":  "exe",
+                     "visibility":  "public",
+                     "ai_optional":  true,
+                     "size_mb":  10.6,
+                     "sha256":  "7a2b24ed93ea616d49a51ff8cda26478de908d31de17d77d33e6b029e563d91f",
+                     "min_os":  "Windows 10",
+                     "exe_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/Drive%20Organizer.exe"
+                 },
+                 {
+                     "id":  "project-desk",
+                     "name":  "Project Desk",
+                     "tagline":  "Answers from your project\u0027s documents.",
+                     "description":  "Reads a project\u0027s documents and answers questions about them, always showing the source for every answer. Opens with a Demo project so you can try it right away.",
+                     "category":  "Productivity",
+                     "version":  "1.0.0",
+                     "install":  "exe",
+                     "visibility":  "public",
+                     "ai_optional":  true,
+                     "size_mb":  53.6,
+                     "sha256":  "fb29e8e03e24eee52c727b1afa2259a6eb84a22355b789ad785d0429b520622a",
+                     "min_os":  "Windows 10",
+                     "exe_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/Project%20Desk.exe"
+                 }
+             ]
+}

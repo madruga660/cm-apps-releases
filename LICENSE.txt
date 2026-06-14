@@ -1,0 +1,23 @@
+CM Apps — Proprietary License
+Copyright (c) 2026 Chris Madruga. All rights reserved.
+
+This software and its source code (the "Software") are the exclusive property
+of Chris Madruga. The Software is made available to use free of charge and
+as-is, with no warranty of any kind.
+
+You MAY:
+  - install and use the Software for personal or business purposes;
+  - share the original, unmodified application as distributed by the author.
+
+You MAY NOT, without the author's prior written permission:
+  - copy, modify, adapt, translate, or create derivative works of the Software;
+  - rebrand it, or remove or alter the author credit or this notice;
+  - redistribute modified versions, resell, sublicense, or commercialize it;
+  - reverse-engineer, decompile, or disassemble the Software, except to the
+    limited extent that applicable law expressly permits despite this clause.
+
+The Software is provided "AS IS", without warranty of any kind, express or
+implied. In no event shall the author be liable for any claim, damages, or
+other liability arising from the use of the Software.
+
+For permissions beyond this license, contact Chris Madruga.
