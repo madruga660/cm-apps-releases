@@ -9,6 +9,7 @@ the app you want and double‑click it.
 |-----|--------------|----------|
 | **Drive Organizer** | Tidies a messy folder: cleans up file names, builds a standard folder set for your role, files loose papers, finds duplicates. Previews every change first and everything is undoable — nothing is deleted. | [Drive Organizer.exe](https://github.com/madruga660/cm-apps-releases/raw/main/Drive%20Organizer.exe) |
 | **Project Desk** | Reads a project's documents and answers questions about them, always showing the source for every answer. Opens with a Demo project so you can try it right away. | [Project Desk.exe](https://github.com/madruga660/cm-apps-releases/raw/main/Project%20Desk.exe) |
+| **FlipScope** | Type a property address → quality-matched comps, an ARV range, a full flip P&L with Max Allowable Offer, and one Go/Caution/Pass verdict. Works on sample data out of the box; add a free RentCast key for live comps on real addresses. | [FlipScope.exe](https://github.com/madruga660/cm-apps-releases/raw/main/FlipScope.exe) · [installer](https://github.com/madruga660/cm-apps-releases/raw/main/FlipScope%20Setup.exe) |
 
 Each app also has a **More Apps** button inside it, so once you have one you can
 browse and install the others in a click.

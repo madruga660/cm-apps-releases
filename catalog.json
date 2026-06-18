@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-06-14T12:23:43",
+    "generated":  "2026-06-18T18:30:00",
     "apps":  [
                  {
                      "id":  "drive-organizer",
@@ -20,8 +20,8 @@
                  {
                      "id":  "project-desk",
                      "name":  "Project Desk",
-                     "tagline":  "Answers from your project\u0027s documents.",
-                     "description":  "Reads a project\u0027s documents and answers questions about them, always showing the source for every answer. Opens with a Demo project so you can try it right away.",
+                     "tagline":  "Answers from your project's documents.",
+                     "description":  "Reads a project's documents and answers questions about them, always showing the source for every answer. Opens with a Demo project so you can try it right away.",
                      "category":  "Productivity",
                      "version":  "1.0.0",
                      "install":  "exe",
@@ -31,6 +31,24 @@
                      "sha256":  "fb29e8e03e24eee52c727b1afa2259a6eb84a22355b789ad785d0429b520622a",
                      "min_os":  "Windows 10",
                      "exe_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/Project%20Desk.exe"
+                 },
+                 {
+                     "id":  "flipscope",
+                     "name":  "FlipScope",
+                     "tagline":  "Know in seconds if a flip pencils out.",
+                     "description":  "Type a property address and get quality-matched comps, an ARV range, a full flip P&L with Max Allowable Offer, and one Go/Caution/Pass verdict. Explore instantly on bundled sample data; add a free RentCast key for live comps on real addresses.",
+                     "category":  "Real Estate",
+                     "version":  "1.0.0",
+                     "install":  "exe",
+                     "visibility":  "public",
+                     "ai_optional":  true,
+                     "size_mb":  30.3,
+                     "sha256":  "5c06a1caba3d332d76d476c00fe3af46135fdda2da9bad4fcbc00d6e3185e3a6",
+                     "min_os":  "Windows 10",
+                     "exe_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/FlipScope.exe",
+                     "setup_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/FlipScope%20Setup.exe",
+                     "setup_sha256":  "cf9466d264f9242fbaa6dac76f4c29900390646d6d7f182c16a47a5d4ee0d53f",
+                     "setup_size_mb":  33.4
                  }
              ]
 }
