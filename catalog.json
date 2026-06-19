@@ -27,8 +27,8 @@
                      "install":  "exe",
                      "visibility":  "public",
                      "ai_optional":  true,
-                     "size_mb":  53.6,
-                     "sha256":  "fb29e8e03e24eee52c727b1afa2259a6eb84a22355b789ad785d0429b520622a",
+                     "size_mb":  57.2,
+                     "sha256":  "a426ebc3b44918ff61d5457e094d1d5e6484f70736ef06ace1d3fe76375a9a77",
                      "min_os":  "Windows 10",
                      "exe_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/Project%20Desk.exe"
                  },
