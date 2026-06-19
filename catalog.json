@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-06-19T14:50:00",
+    "generated":  "2026-06-19T16:35:00",
     "apps":  [
                  {
                      "id":  "drive-organizer",
@@ -28,7 +28,7 @@
                      "visibility":  "public",
                      "ai_optional":  true,
                      "size_mb":  72.9,
-                     "sha256":  "26da1e9f5812bb9d82e0c257283095dbe5558091875a3a3d312c162fa3e4d58e",
+                     "sha256":  "bfa899adf4e82304a20ecc5943767565006ed32428c5d2cdf147f66290ab7a14",
                      "min_os":  "Windows 10",
                      "exe_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/Project%20Desk.exe"
                  },
