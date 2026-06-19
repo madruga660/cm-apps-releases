@@ -1,6 +1,6 @@
 {
     "schema":  1,
-    "generated":  "2026-06-19T16:35:00",
+    "generated":  "2026-06-19T18:53:49",
     "apps":  [
                  {
                      "id":  "drive-organizer",
@@ -20,15 +20,15 @@
                  {
                      "id":  "project-desk",
                      "name":  "Project Desk",
-                     "tagline":  "Answers from your project's documents.",
-                     "description":  "Reads a project's documents and answers questions about them, always showing the source for every answer. Opens with a Demo project so you can try it right away.",
+                     "tagline":  "Answers from your project\u0027s documents.",
+                     "description":  "Reads a project\u0027s documents and answers questions about them, always showing the source for every answer. Opens with a Demo project so you can try it right away.",
                      "category":  "Productivity",
                      "version":  "1.0.0",
                      "install":  "exe",
                      "visibility":  "public",
                      "ai_optional":  true,
                      "size_mb":  72.9,
-                     "sha256":  "bfa899adf4e82304a20ecc5943767565006ed32428c5d2cdf147f66290ab7a14",
+                     "sha256":  "4afb8f85070ee4578576eb03a34d1939621dd1da4ff258266e74b00c52b23314",
                      "min_os":  "Windows 10",
                      "exe_url":  "https://github.com/madruga660/cm-apps-releases/raw/main/Project%20Desk.exe"
                  },
@@ -36,7 +36,7 @@
                      "id":  "flipscope",
                      "name":  "FlipScope",
                      "tagline":  "Know in seconds if a flip pencils out.",
-                     "description":  "Type a property address and get quality-matched comps, an ARV range, a full flip P&L with Max Allowable Offer, and one Go/Caution/Pass verdict. Explore instantly on bundled sample data; add a free RentCast key for live comps on real addresses.",
+                     "description":  "Type a property address and get quality-matched comps, an ARV range, a full flip P\u0026L with Max Allowable Offer, and one Go/Caution/Pass verdict. Explore instantly on bundled sample data; add a free RentCast key for live comps on real addresses.",
                      "category":  "Real Estate",
                      "version":  "1.0.0",
                      "install":  "exe",
